@@ -1,0 +1,6 @@
+meg="My self score on PHP: {0}, python:{1}, Java:{2}".format(3,6,7)
+print(meg)
+arry="{2},{1},{0}".format('a','b','c')
+print(arry)
+messege="if x={x} and y={y} then x+y={z}".format(x=4,y=5,z=4+5 )
+print(messege)
